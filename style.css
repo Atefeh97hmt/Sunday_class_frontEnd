@@ -254,3 +254,31 @@ right: 10px;
 top: 10px;
 }
 
+
+
+.image{
+    border: 1px solid red;
+}
+
+
+.img-content{
+    box-shadow: 5px 5px 5px #8f8f8f;
+    border: 1px solid #8f8f8f;
+    width: 250px;
+    padding: 20px;
+    position: absolute;
+    bottom: -38px;
+    left: 70px;
+    z-index: 10;
+    background: #fff;
+}
+
+
+.position-relative{
+    position: relative;
+}
+
+
+.margin-tb{
+    margin-bottom: 200px;
+}

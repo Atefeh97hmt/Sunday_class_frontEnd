@@ -242,3 +242,15 @@ border-radius: 10px;
 color: #fff;
 
 }
+
+.email_input{
+    position: relative;
+}
+
+
+.email_input svg{
+position: absolute;
+right: 10px;
+top: 10px;
+}
+

@@ -282,3 +282,15 @@ top: 10px;
 .margin-tb{
     margin-bottom: 200px;
 }
+
+.flex
+{
+    display: flex
+}
+
+.title{
+    color: #4CAF4F;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
